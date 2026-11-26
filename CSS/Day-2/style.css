@@ -1,0 +1,75 @@
+/* Universal Selector(*) -> poore page mein same styling dena or generaaly dveloper iska use karte hein Page ki default setting ko reset karne k liye */
+
+/* * {
+  color: orange;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+} */
+
+/* Element Selector(TagName) */
+
+/* h1 {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+h3 {
+  color: blueviolet;
+  font-style: italic;
+}
+
+p {
+  font-weight: 900;
+  font-size: 30px;
+  color: burlywood;
+} */
+
+/* class Selector(.) hum class ka same name multiple tag mein de sakte hein  */
+
+/* .para {
+  font-weight: 900;
+  font-size: 30px;
+  color: burlywood;
+}
+.para1 {
+  
+  color: blue;
+} */
+
+/* Id Selector(#) : aap hamesha Id ko unique rakhna and same tag mein same Id name use na karna  */
+
+/* #paragraph1 {
+  background-color: orange;
+}
+
+.para2 {
+  color: blueviolet;
+  font-size: 30px;
+  font-style: italic;
+  background-color: red !important;
+} */
+
+/* Group Selector(comma seprated[h1,h2,p]) */
+
+/* h1,
+#paragraph1,
+h3 {
+  background-color: red;
+  color: white;
+} */
+
+/* Attribute Selector */
+
+/* input[type="email"] {
+  border: 10px solid rebeccapurple;
+} */
+
+/* Descendent Selector [] */
+
+/* .container p {
+  background-color: orange;
+} */
+
+/* child selector */
+.container > p {
+  background-color: orange;
+}
