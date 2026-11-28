@@ -1,0 +1,14 @@
+color Use a readable text color for headings and paragraphs.
+background-color Set a page background and a different background for the course section.
+font-family Choose a font family for the page and a different one for the main heading.
+font-size Use different sizes for the main heading, section heading and paragraph.
+font-weight Make important headings and button text bold.
+font-style Display the testimonial in italic.
+text-align Center the main heading and button area.
+text-decoration Underline one section heading or remove underline from a link.
+text-transform Display the button label in uppercase.
+text-indent Indent the first line of the introductory paragraph.
+line-height Make paragraphs comfortable to read.
+letter-spacing Add spacing to a small label.
+word-spacing Apply a small amount of word spacing to a paragraph.
+text-shadow Add a subtle shadow to the main heading.
